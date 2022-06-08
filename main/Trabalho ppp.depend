@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557717630 source:c:\users\ruiab\onedrive\ambiente de trabalho\trabalho ppp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
